@@ -1,0 +1,15 @@
+C:\Users\Stole\source\repos\Sistemsko prog 2\bin\Debug\net7.0\Sistemsko prog 2.exe
+C:\Users\Stole\source\repos\Sistemsko prog 2\bin\Debug\net7.0\Sistemsko prog 2.deps.json
+C:\Users\Stole\source\repos\Sistemsko prog 2\bin\Debug\net7.0\Sistemsko prog 2.runtimeconfig.json
+C:\Users\Stole\source\repos\Sistemsko prog 2\bin\Debug\net7.0\Sistemsko prog 2.dll
+C:\Users\Stole\source\repos\Sistemsko prog 2\bin\Debug\net7.0\Sistemsko prog 2.pdb
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.csproj.AssemblyReference.cache
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.AssemblyInfoInputs.cache
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.AssemblyInfo.cs
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.csproj.CoreCompileInputs.cache
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.dll
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\refint\Sistemsko prog 2.dll
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.pdb
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\Sistemsko prog 2.genruntimeconfig.cache
+C:\Users\Stole\source\repos\Sistemsko prog 2\obj\Debug\net7.0\ref\Sistemsko prog 2.dll
